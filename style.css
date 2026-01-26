@@ -1,0 +1,10 @@
+.kutu {
+    width: 150px;
+    height: 150px;
+    background-color: #3498db;
+    transition: 0.3s;
+}
+
+.kutu:hover {
+    background-color: #2ecc71;
+}
